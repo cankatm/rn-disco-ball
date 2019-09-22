@@ -2,6 +2,8 @@
 
 Disco Ball Component for React Native projects.
 
+![RN Disco Ball](rn-disco-ball.gif)
+
 `npm install rn-disco-ball`
 
 or
