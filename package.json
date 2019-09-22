@@ -1,0 +1,36 @@
+{
+  "name": "rn-disco-ball",
+  "version": "1.0.0",
+  "description": "Simple disco ball component for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cankatm/rn-disco-ball.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "disco",
+    "ball",
+    "disco",
+    "react-native-component",
+    "react-component",
+    "react",
+    "ios",
+    "android",
+    "expo",
+    "ball"
+  ],
+  "bugs": {
+    "url": "https://github.com/cankatm/rn-disco-ball/issues"
+  },
+  "homepage": "https://github.com/cankatm/rn-disco-ball/blob/master/README.md",
+  "author": "Mert Cankat",
+  "license": "ISC",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.56.0"
+  }
+}
